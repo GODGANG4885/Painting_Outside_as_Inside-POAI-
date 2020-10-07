@@ -87,7 +87,7 @@ class EdgeModel(BaseModel):
         # generator input: [grayscale(1) + edge(1) + mask(1)]
         # discriminator input: (grayscale(1) + edge(1))
         generator = EdgeGenerator(use_spectral_norm=True)
-        discriminator = Discriminator(in_channels=2, use_sigmoid=config.GAN_LOSS != 'hinge')
+        discriminator = Discriminator(in_channels=2, use_sigmoid=False)
 
         if len(config.GPU) > 1:
             # generator = nn.DataParallel(generator, device_ids='0,1')
