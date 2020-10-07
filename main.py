@@ -50,7 +50,7 @@ def main(mode=None):
 
 
     # build the model and initialize
-    model = EdgeConnect(config)
+    model = Painting_Outside_Inside(config)
     nn.DataParallel(model.load(),output_device=1)
 
 
