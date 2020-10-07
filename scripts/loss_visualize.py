@@ -46,7 +46,7 @@ def EdgeLossVisualize(filename):
 
     mode_dir = os.path.dirname(folder_dir)
     mode_name = os.path.basename(mode_dir)
-    save_path = '/home/godgang/edge-connect/loss_visualize'+'/{}.jpg'.format(mode_name+'_'+folder_name)
+    save_path = '/home/loss_visualize'+'/{}.jpg'.format(mode_name+'_'+folder_name)
     plt.savefig(save_path)
     print("saved file {}".format(save_path))
 
@@ -116,7 +116,7 @@ def InpaintLossVisualize(filename):
 
     mode_dir = os.path.dirname(folder_dir)
     mode_name = os.path.basename(mode_dir)
-    save_path = '/home/godgang/edge-connect/loss_visualize'+'/{}.jpg'.format(mode_name+'_'+folder_name)
+    save_path = '/home/loss_visualize'+'/{}.jpg'.format(mode_name+'_'+folder_name)
     plt.savefig(save_path)
     print("saved file {}".format(save_path))
 
@@ -200,7 +200,7 @@ def CompareLoss_inpaint(path1,path2):
 
     mode_dir = os.path.dirname(folder_dir)
     mode_name = os.path.basename(mode_dir)
-    save_path = '/home/godgang/edge-connect/loss_visualize'+'/{}.jpg'.format(mode_name+'_'+folder_name+'_VS_'+folder_name2)
+    save_path = '/home/loss_visualize'+'/{}.jpg'.format(mode_name+'_'+folder_name+'_VS_'+folder_name2)
     plt.savefig(save_path)
     print("saved file {}".format(save_path))
 def CompareLoss_edge(path1,path2):
@@ -292,7 +292,7 @@ def CompareLoss_edge(path1,path2):
 
     mode_dir = os.path.dirname(folder_dir)
     mode_name = os.path.basename(mode_dir)
-    save_path = '/home/godgang/edge-connect/loss_visualize'+'/{}.jpg'.format(mode_name+'_'+folder_name+'_VS_'+folder_name2)
+    save_path = '/home/loss_visualize'+'/{}.jpg'.format(mode_name+'_'+folder_name+'_VS_'+folder_name2)
     plt.savefig(save_path)
     print("saved file {}".format(save_path))
 if __name__ == '__main__':
