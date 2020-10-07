@@ -7,7 +7,7 @@ import torch.nn as nn
 import argparse
 from shutil import copyfile
 from src.config import Config
-from src.edge_connect import EdgeConnect
+from src.painting_outside_as_inside import Painting_Outside_Inside
 import sys
 
 
@@ -50,7 +50,7 @@ def main(mode=None):
 
 
     # build the model and initialize
-    model = EdgeConnect(config)
+    model = Painting_Outside_Inside(config)
     nn.DataParallel(model.load(),output_device=1)
 
 
