@@ -1,4 +1,5 @@
 # Painting_Outside_as_Inside-POAI-
+Code for our paper "[Painting Outside as Inside:  Edge Guided Image Outpainting via Bidirectional Rearrangement with Progressive Step Learning]()" (WACV 2021)
 
 
 ### Acknowledgements
