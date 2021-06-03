@@ -1,6 +1,6 @@
 ## Painting Outside as Inside (POAI)
 
-You can use the [editor on GitHub](https://github.com/GODGANG4885/Painting_Outside_as_Inside-POAI-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- You can use the [editor on GitHub](https://github.com/GODGANG4885/Painting_Outside_as_Inside-POAI-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->
 Kyunghun Kim, Yeohun Yun, Keon-Woo Kang, Kyeongbo Kong, Siyeong Lee, and Suk-Ju Kang
  Sogang University  POSTECH  NAVER LABS
 ### in WACV 2020 (Oral)
