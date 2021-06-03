@@ -10,8 +10,6 @@
 
 ![fig1](https://user-images.githubusercontent.com/36159663/120644590-77ea5200-c4b2-11eb-9e39-45ba369f36c5.png)
 
-![image](https://user-images.githubusercontent.com/36159663/120646894-f47e3000-c4b4-11eb-8662-36dd8311a489.png)
-
 
 ```markdown
 Syntax highlighted code block
