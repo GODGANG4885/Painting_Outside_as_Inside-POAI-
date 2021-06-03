@@ -18,4 +18,4 @@ challenges. The first is to maintain the spatial consistency in contents of gene
 ## Proposed Method
 ![model2](https://user-images.githubusercontent.com/36159663/120647203-4b840500-c4b5-11eb-91df-1053f4e71ceb.png)
 
-## <center> [Paper](https://openaccess.thecvf.com/content/WACV2021/html/Kim_Painting_Outside_As_Inside_Edge_Guided_Image_Outpainting_via_Bidirectional_WACV_2021_paper.html)  </center>
+## [Paper](https://openaccess.thecvf.com/content/WACV2021/html/Kim_Painting_Outside_As_Inside_Edge_Guided_Image_Outpainting_via_Bidirectional_WACV_2021_paper.html)  
