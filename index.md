@@ -1,7 +1,7 @@
 # Painting Outside as Inside (POAI): Edge guided image outpainting via bidirectional rearrangement with progressive step learning
 
 <!-- You can use the [editor on GitHub](https://github.com/GODGANG4885/Painting_Outside_as_Inside-POAI-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->
- <center>Kyunghun Kim, Y.hun Yun, K.Woo Kang, K.gbo Kong, S.yeong Lee, and Suk-Ju Kang</center>  
+ <center>Kyunghun Kim, Y.hun Yun, K.Woo Kang, K.bo Kong, S.yeong Lee, and Suk-Ju Kang</center>  
  
  <center>  Sogang University  POSTECH  NAVER LABS</center>  
  
