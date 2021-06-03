@@ -4,6 +4,7 @@
  <center>Kyunghun Kim, Y.hun Yun, K.Woo Kang, K.gbo Kong, S.yeong Lee, and Suk-Ju Kang</center>  
  
  <center>  Sogang University  POSTECH  NAVER LABS</center>  
+ 
 ### in WACV 2020 (Oral)
 
 
