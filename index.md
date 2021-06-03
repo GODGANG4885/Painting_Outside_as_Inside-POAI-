@@ -10,6 +10,8 @@
 
 ![fig1](https://user-images.githubusercontent.com/36159663/120644590-77ea5200-c4b2-11eb-9e39-45ba369f36c5.png)
 
+## Proposed Method
+![model2](https://user-images.githubusercontent.com/36159663/120647203-4b840500-c4b5-11eb-91df-1053f4e71ceb.png)
 
 ```markdown
 Syntax highlighted code block
