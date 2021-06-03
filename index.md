@@ -5,7 +5,7 @@
  
  <center>  Sogang University  POSTECH  NAVER LABS</center>  
  
-## in WACV 2020 (Oral)
+##  <center> in WACV 2020 (Oral)</center>  
 
 
 ![fig1](https://user-images.githubusercontent.com/36159663/120644590-77ea5200-c4b2-11eb-9e39-45ba369f36c5.png)
