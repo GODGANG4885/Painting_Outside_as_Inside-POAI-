@@ -1,9 +1,8 @@
 ## Painting Outside as Inside POAI
 
 You can use the [editor on GitHub](https://github.com/GODGANG4885/Painting_Outside_as_Inside-POAI-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Kyunghun Kim, Yeohun Yun, Keon-Woo Kang, Kyeongbo Kong, Siyeong Lee, and Suk-Ju Kang
+ Sogang University  POSTECH  NAVER LABS
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
