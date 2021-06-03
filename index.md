@@ -1,9 +1,12 @@
-## Painting Outside as Inside POAI
+## Painting Outside as Inside (POAI)
 
 You can use the [editor on GitHub](https://github.com/GODGANG4885/Painting_Outside_as_Inside-POAI-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 Kyunghun Kim, Yeohun Yun, Keon-Woo Kang, Kyeongbo Kong, Siyeong Lee, and Suk-Ju Kang
  Sogang University  POSTECH  NAVER LABS
-### Markdown
+### in WACV 2020 (Oral)
+
+
+![fig1](https://user-images.githubusercontent.com/36159663/120644590-77ea5200-c4b2-11eb-9e39-45ba369f36c5.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
